@@ -1,0 +1,8 @@
+  498  flutter create firstapp
+  499  cd firstapp/
+  500  code .
+  501  dart fix
+  502  dart fix --apply
+  504  flutter devices
+  505  flutter emulators
+  506  flutter emulator --launch Pixel_3_API_30
