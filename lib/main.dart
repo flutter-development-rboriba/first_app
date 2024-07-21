@@ -16,7 +16,13 @@ void main() {
         ),
       ),
       child: const Center(
-        child: Text('Hello Fluter Richard!'),
+        child: Text(
+          'Hello Fluter Richard!',
+          style: TextStyle(
+            color: Colors.white,
+            fontSize: 28,
+          ),
+        ),
       ),
     ))),
   );
